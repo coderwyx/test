@@ -8,7 +8,7 @@
 
 *** 
 
-分割线
+*分割线*
 
 ```javascript
     funciton sum (a,b){
