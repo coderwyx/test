@@ -7,7 +7,14 @@
 + 无序列表
 
 *** 
+
 分割线
+
+```javascript
+    funciton sum (a,b){
+        return a+b
+    }
+```
 这是一个链接[百度](https://www.baidu.com)
 
 |表头1|表头2|
